@@ -3,8 +3,6 @@
 # WIP
 # Work in progress; do not use
 
-![](assets/bitcoin-utxo-dump.gif)
-
 Get a **list of every unspent bitcoin** in the blockchain.
 
 The program iterates over each entry in Bitcoin Core's `chainstate` [LevelDB](http://leveldb.org/) database. It decompresses and decodes the data, and produces a human-readable text dump of all the [UTXO](http://learnmeabitcoin.com/glossary/utxo)s (unspent transaction outputs).
