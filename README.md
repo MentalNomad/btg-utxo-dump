@@ -1,4 +1,7 @@
-# Bitcoin UTXO Dump
+# BTG UTXO Dump
+
+# WIP
+# Work in progress; do not use
 
 ![](assets/bitcoin-utxo-dump.gif)
 
